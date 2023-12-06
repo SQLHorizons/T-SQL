@@ -14,7 +14,7 @@ Database indexing is a detailed topic evident by the many online whitepapers cov
 
 **Q:** How often must index maintenance occur?
 
-**A:** This depends on the data change within the table, best practices state that an index should be reorganised at 5% and rebuilt at 30% fragmentation.  At Aviva standard jobs are deployed to monitor table fragmentation and take the necessary action, unless the business has opted to maintain this themselves.
+**A:** This depends on the data change within the table, best practices state that an index should be reorganised at 5% and rebuilt at 30% fragmentation.  At organisation standard jobs are deployed to monitor table fragmentation and take the necessary action, unless the business has opted to maintain this themselves.
 
 **Q:** How long will index maintenance take?
 
